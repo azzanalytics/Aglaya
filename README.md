@@ -6,3 +6,4 @@ la prueba fue exitosa, corroboro, sino hay problemas continuo con la programaci�
 Se está probando la transferencia de datos en un sitio privado.
 tratando de corroborar que todo esté bien despues del gestor de arranque
 prueba con plasma
+prueba definitiva
