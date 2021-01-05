@@ -7,3 +7,4 @@ Se está probando la transferencia de datos en un sitio privado.
 tratando de corroborar que todo esté bien despues del gestor de arranque
 prueba con plasma
 prueba definitiva
+Gracias, ahora procederé a organizar mi entorno
