@@ -4,3 +4,4 @@ esto es horrible, nunca habia estado tan estancado en una situacion tan inutil, 
 Se está relaizando la pruega de sincronización con la nueva conección, espero que sea exitosa para iniciar a programar
 la prueba fue exitosa, corroboro, sino hay problemas continuo con la programación.
 Se está probando la transferencia de datos en un sitio privado.
+tratando de corroborar que todo esté bien despues del gestor de arranque
